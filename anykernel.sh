@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Black Kernel for Redmi Note 10 Pro & Pro Max by @ itsshashanksp & Temnij
+kernel.string=Black Kernel for Redmi Note 10 Pro & Pro Max by @ itsshashanksp & Temnij - https://t.me/kernelblack
 do.devicecheck=1
 do.modules=1
 do.systemless=1
